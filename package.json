@@ -56,7 +56,7 @@
     "bluebird": "^3.7.2",
     "djv": "^2.1.4",
     "dompurify": "^2.3.6",
-    "i18next": "^19.0.0",
+    "i18next": "^19.9.2",
     "i18next-xhr-backend": "^3.2.2",
     "inflection": "^1.12.0",
     "jbox": "^1.0.8",
