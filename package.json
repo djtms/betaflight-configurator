@@ -77,7 +77,7 @@
     "semver-min": "^0.7.2",
     "short-unique-id": "^4.4.4",
     "switchery-latest": "^0.8.2",
-    "three": "~0.97.0",
+    "three": "~0.145.0",
     "universal-ga": "^1.2.0",
     "vue": "^2.7.10"
   },

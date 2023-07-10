@@ -15268,10 +15268,10 @@ thenify@^3.3.1:
   dependencies:
     any-promise "^1.0.0"
 
-three@~0.97.0:
-  version "0.97.0"
-  resolved "https://registry.yarnpkg.com/three/-/three-0.97.0.tgz#76141e1b0ace14246fe9198a458fefddc98a4e30"
-  integrity sha512-ctZF79O1R2aMIDnz9cV5GUIONyFnYvfQKg4+EAwEVaEr1mgy99rglstH6hhRdIThu3SOa4Ns5da/Ee5fTbWc9A==
+three@~0.145.0:
+  version "0.145.0"
+  resolved "https://registry.yarnpkg.com/three/-/three-0.145.0.tgz#a613d71e75effc2aed88be630027ca01e2b6502e"
+  integrity sha512-EKoHQEtEJ4CB6b2BGMBgLZrfwLjXcSUfoI/MiIXUuRpeYsfK5aPWbYhdtIVWOH+x6X0TouldHKHBuc/LAiFzAw==
 
 through2-filter@^3.0.0:
   version "3.0.0"
