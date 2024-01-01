@@ -79,7 +79,7 @@
     "switchery-latest": "^0.8.2",
     "three": "~0.97.0",
     "universal-ga": "^1.2.0",
-    "vue": "^2.7.10"
+    "vue": "^3.0.0"
   },
   "devDependencies": {
     "@babel/core": "^7.19.3",
